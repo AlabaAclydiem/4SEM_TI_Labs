@@ -1,7 +1,5 @@
 import PySimpleGUI as sg
 
-from widgets_keys import *
-
 column_one = [
     [sg.Text("Путь к файлу:", font=16)],
     [sg.Input(size=(70, 1), enable_events=True, key="filename", disabled=True, font=16)],
