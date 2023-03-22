@@ -1,4 +1,7 @@
 
 *.xml
 *.txt
-*.txt
+*/.idea/*
+*/res/*
+*/venv/*
+*/__pycache__/*
